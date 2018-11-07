@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ForceGoogleSafeSearch</key>
+	<true/>
+	<key>HomepageLocation</key>
+	<string>https://www.gthub.com</string>
+	<key>RestoreOnStartup</key>
+	<integer>4</integer>
+	<key>RestoreOnStartupURLs</key>
+	<array>
+		<string>https://www.sephora.com</string>
+	</array>
+</dict>
+</plist>
