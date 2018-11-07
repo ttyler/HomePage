@@ -2,6 +2,17 @@
 No Scripts, just links to others pages
 Looking to set the MacOS Users home Page...
 
+Moving relevant text to the top ignore below the *********** Old School... Ignore...
+
+google settings, simple, go here and use the pages to build your preferences.
+https://www.chromium.org/administrators/policy-list-3
+
+If you read between the lines have a look here;
+https://gist.github.com/nathandarnell/749c16513f906a52787683576f66c8f7
+
+and you could possible translate this into a Plist. If companies have provided a more beneficial list of domains and settings I will provide them. Please respond... :-)
+
+*********** Old School... Ignore...
 
 thinking of using;
 sudo jamf help setHomePage
